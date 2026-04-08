@@ -15,6 +15,7 @@ Cílem je vytvořit prakticky využitelný nástroj pro:
 - dokumentaci elektronických důkazů,
 - analýzu komunikace,
 - strukturované zpracování případu.
+
 Metodika je určena pro vzdělávací a analytické účely a nepředstavuje závazný postup pro orgány činné v trestním řízení.
 
 ## Autorská práva
