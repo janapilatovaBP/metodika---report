@@ -18,8 +18,11 @@ Cílem je vytvořit prakticky využitelný nástroj pro:
 
 Metodika je určena pro vzdělávací a analytické účely a nepředstavuje závazný postup pro orgány činné v trestním řízení.
 
-## Autorská práva
-Tento repozitář byl vytvořen jako součást bakalářské práce.
-Veškerý obsah je chráněn autorským právem. 
-Jakékoliv úpravy, reprodukce nebo další šíření obsahu bez výslovného souhlasu autora není dovoleno.
-Repozitář je určen výhradně k nahlížení a studijním účelům.
+## Právní doložka a autorská práva
+Tento repozitář je integrální součástí bakalářské práce **"Elektronické důkazy v kyberstalkingu"**.
+- Veškerý obsah podléhá autorskoprávní ochraně.
+- Obsah je určen výhradně k nahlížení, studijním a výzkumným účelům.
+- Reprodukce nebo komerční šíření bez souhlasu autora je zakázáno.
+
+- ---
+*Autor: Jana Pilátová*
