@@ -11,3 +11,24 @@
 | Google Lens | OSINT | Vyhledávání podobných obrázků | Obrázky | Informace o původu | Freemium |
 | Forensically | Analýza obrazu | Detekce manipulací | Obrázky | Analýza úprav | Open source |
 | ExifTool | Metadata | Analýza EXIF dat | Obrázky | Metadata | Open source |
+
+
+
+
+### Detailní přehled forenzních nástrojů
+
+| Název | Kategorie | Účel/Funkce | Vstup | Výstup | Licence/Typ | Odkaz |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Axiom Complete + Cloud** | Digitální forenzika | Komplexní hloubková analýza artefaktů, rekonstrukce aktivit uživatele a obnova smazaných dat. | Pevné disky, externí úložiště, cloudové kontejnery | Detailní přehled aktivit, nalezené důkazy, forenzní reporty | Placená (SaaS) | [Web](https://www.magnetforensics.com/products/magnet-axiom/) |
+| **X-Ways Forensics** | Digitální forenzika | Vysoce efektivní analýza souborových systémů, diskových struktur a nízkoúrovňové vyhledávání stop. | Binární obrazy disků, soubory, systémy | Digitální stopy, technická metadata, reporty | Placená (Proprietary) | [Web](http://www.x-ways.net/forensics/) |
+| **Oxygen Forensic Detective** | Mobilní forenzika | Pokročilá extrakce komunikace, kontaktů a aplikačních dat z mobilních zařízení a cloudových záloh. | Mobilní zařízení, cloudové zálohy, dumpy | Kontakty, SMS, chaty, multimédia, aplikační data | Placená (SaaS) | [Web](https://www.oxygen-forensic.com/) |
+| **Cellebrite Inseyets** | Mobilní forenzika | Špičková analýza mobilních zařízení zaměřená na hloubkovou extrakci dat a dešifrování aplikací. | Mobilní zařízení (fyzické připojení) | Kontakty, zprávy, chaty, data aplikací | Placená (Proprietary) | [Web](https://www.cellebrite.com/) |
+| **Cellebrite Inspector** | Mobilní forenzika | Specializovaný nástroj pro pokročilé dekódování a hloubkovou analýzu mobilních dat získaných z extrakcí. | Extrakce z mobilních zařízení | Technická metadata, komunikace, logy aplikací | Placená (Proprietary) | [Web](https://www.cellebrite.com/) |
+| **Cellebrite Digital Collector** | Mobilní forenzika | Profesionální řešení pro bezpečné zajištění a bitové kopírování dat z mobilních a počítačových systémů. | Mobilní a počítačová zařízení | Kompletní forenzní kopie dat (bit-to-bit) | Placená (Proprietary) | [Web](https://www.cellebrite.com/) |
+| **MOBILedit Forensic Pro** | Mobilní forenzika | Český software pro extrakci a analýzu mobilních dat s funkcí porovnávání obsahu více zařízení. | Mobilní zařízení, SIM karty | Kontakty, zprávy, multimédia, reporty aplikací | Placená (Proprietary) | [Web](https://www.mobiledit.com/forensic) |
+| **TinEye** | OSINT / Rev. vyhledávání | Specializovaný nástroj pro dohledání původního zdroje obrázku a jeho historických výskytů na internetu. | Obrázkové soubory, URL adresy | Seznam nalezených zdrojů a verzí obrázků | Freemium (SaaS) | [Web](https://tineye.com/) |
+| **Google Lens** | OSINT / Rev. vyhledávání | Vizuální vyhledávač pro identifikaci objektů a dohledání vizuálně shodných či podobných materiálů. | Digitální obrázky, snímky obrazovky | Informace o původu, vizuálně podobné shody | Zdarma (SaaS) | [Web](https://images.google.com/) |
+| **Bing Image Search** | OSINT / Rev. vyhledávání | Alternativní vyhledávací algoritmus pro reverzní vyhledávání s odlišnou indexací webového obsahu. | Digitální obrázky | Seznam nalezených zdrojů a odkazů | Zdarma (SaaS) | [Web](https://www.bing.com/visualsearch) |
+| **Yandex Images** | OSINT / Rev. vyhledávání | Vysoce účinný algoritmus pro reverzní vyhledávání a identifikaci vizuálně podobných tváří a objektů. | Digitální obrázky | Seznam nalezených zdrojů a vizuálních shod | Zdarma (SaaS) | [Web](https://yandex.com/images/) |
+| **Forensically** | Forenzní analýza obrazu | Webová sada nástrojů pro detekci digitálních manipulací, analýzu stínů, chyb pixelů a komprese. | Digitální fotografie (JPG, PNG) | Indikace úprav, vizuální analýza manipulací | Open source (MIT) | [Web](https://29a.ch/photo-forensics/) |
+| **ExifTool** | Forenzní analýza obrazu | Nejsilnější nástroj pro hloubkovou analýzu technických metadat fotografií včetně GPS a informací o zařízení. | Libovolné digitální soubory (Media) | Technická metadata, datum pořízení, GPS data | Open source (Perl/MIT) | [Web](https://exiftool.org/) |
