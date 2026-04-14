@@ -6,9 +6,9 @@ Tento repozitář obsahuje metodiku zaměřenou na dokumentaci, analýzu a vyhod
 Metodika vychází z modelových scénářů a poskytuje systematický postup pro práci s digitálními stopami vznikajícími při nežádoucí elektronické komunikaci.
 
 ## Obsah repozitáře
-- TEMPLATE.md – šablona reportu elektronických důkazů
-- EXAMPLE.md – ukázka vyplněného reportu
-- TOOLS.md – přehled forenzních nástrojů
+- [TEMPLATE.md](./TEMPLATE.md) – Šablona reportu pro záznam elektronických důkazů.
+- [EXAMPLE.md](./EXAMPLE.md) – Praktická ukázka vyplněného reportu na modelovém scénáři.
+- [TOOLS.md](./TOOLS.md) – Rozšířený přehled a komparace forenzních nástrojů.
 
 ## Cíl metodiky
 Cílem je vytvořit prakticky využitelný nástroj pro:
