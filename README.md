@@ -19,7 +19,8 @@ Cílem je vytvořit prakticky využitelný nástroj pro:
 Metodika je určena pro vzdělávací a analytické účely a nepředstavuje závazný postup pro orgány činné v trestním řízení.
 
 ## Právní doložka a autorská práva
-Tento repozitář je integrální součástí bakalářské práce **"Elektronické důkazy v kyberstalkingu"**.
+Tento repozitář je integrální součástí bakalářské práce **"Zajišťování digitálních stop a jejich 
+		využití pro stíhání kyberstalkingu"**.
 - Veškerý obsah podléhá autorskoprávní ochraně.
 - Obsah je určen výhradně k nahlížení, studijním a výzkumným účelům.
 - Reprodukce nebo komerční šíření bez souhlasu autora je zakázáno.
