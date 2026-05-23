@@ -1,5 +1,3 @@
-Repozitář pro metodiku a praktickou aplikaci nástrojů.
-
 # Metodika dokumentace elektronických důkazů (kyberstalking)
 Tento repozitář obsahuje metodiku zaměřenou na dokumentaci, analýzu a vyhodnocení elektronických důkazů v případech kyberstalkingu.
 Metodika vychází z modelových scénářů a poskytuje systematický postup pro práci s digitálními stopami vznikajícími při nežádoucí elektronické komunikaci.
